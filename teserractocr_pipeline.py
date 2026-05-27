@@ -329,7 +329,6 @@ def process_input(input_path):
 
 if __name__ == "__main__":
 
-    # input_file = "/home/agilelpt141/Downloads/workhive-ss-05-2026/het_patel_may_2026/2026-05-12/screenshot-1778586883000.webp"
-    input_file = "/home/agilelpt141/Downloads/1777069512875.pdf"
+    input_file = "1777069512875.pdf"  # or ing or doc
     
     process_input(input_file)

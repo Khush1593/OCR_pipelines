@@ -565,5 +565,5 @@ def process_input(input_path):
 # -----------------------
 
 if __name__ == "__main__":
-    input_file = "/home/agilelpt141/Downloads/1777069512875.pdf"  # or PDF
+    input_file = "1777069512875.pdf"  # or ing or doc
     process_input(input_file)
